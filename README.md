@@ -27,6 +27,7 @@ Most projects in this repository share a core set of modules designed to be reus
 │   ├── guardrail.py   # Custom guardrails for AI safety/behavior
 │   └── budget.py      # Spending limits to prevent surprise bills
 └── project-*/         # Mini-projects building up to the AI agent
+```
 
 I hope I'll be able to build something useful here. And hoping I'll be able to share the agent to others🤖.
 
